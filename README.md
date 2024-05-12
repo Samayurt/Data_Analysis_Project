@@ -1,7 +1,7 @@
 # Data_Analysis_Project
 EDA
 
-**Perfor EDA on Different Datasets**
+**Perform EDA on Different Datasets**
 
 **Data Cleaning:**
 
